@@ -1,0 +1,2 @@
+Time2Live App does not gather or share any personal information.
+Your Birthday and Gender are needed for the functionality of the app, but they are only stored locally on your phone.
